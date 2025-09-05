@@ -1,0 +1,95 @@
+Graph Algorithms !
+from typing import List, Tuple
+import heapq
+from collections import deque
+
+INF = 10**18
+
+class Solution:
+    # 1) Dijkstra (with min-heap), non-negative weights
+    def dijkstra(self, n: int, edges: List[Tuple[int,int,int]], src: int) -> List[int]:
+        g = [[] for _ in range(n)]
+        for u,v,w in edges:
+            g[u].append((v, w))
+        dist = [INF]*n
+        dist[src] = 0
+        pq = [(0, src)]  # (d, node)
+        while pq:
+            d,u = heapq.heappop(pq)
+            if d != dist[u]:  # stale
+                continue
+            for v,w in g[u]:
+                nd = d + w
+                if nd < dist[v]:
+                    dist[v] = nd
+                    heapq.heappush(pq, (nd, v))
+        return dist
+
+    # 2) 0-1 BFS (edge weights are only 0 or 1)
+    def zero_one_bfs(self, n: int, edges: List[Tuple[int,int,int]], src: int) -> List[int]:
+        g = [[] for _ in range(n)]
+        for u,v,w in edges:
+            # assert w in {0,1}
+            g[u].append((v, w))
+        dist = [INF]*n
+        dist[src] = 0
+        dq = deque([src])
+        while dq:
+            u = dq.popleft()
+            for v,w in g[u]:
+                nd = dist[u] + w
+                if nd < dist[v]:
+                    dist[v] = nd
+                    if w == 0:
+                        dq.appendleft(v)
+                    else:
+                        dq.append(v)
+        return dist
+
+    # 3) Floyd–Warshall (all-pairs, O(n^3))
+    def floyd_warshall(self, n: int, edges: List[Tuple[int,int,int]]) -> List[List[int]]:
+        dist = [[INF]*n for _ in range(n)]
+        for i in range(n):
+            dist[i][i] = 0
+        for u,v,w in edges:
+            if w < dist[u][v]:
+                dist[u][v] = w
+        for k in range(n):
+            dk = dist[k]
+            for i in range(n):
+                dik = dist[i][k]
+                if dik == INF:
+                    continue
+                di = dist[i]
+                for j in range(n):
+                    ikj = dik + dk[j]
+                    if ikj < di[j]:
+                        di[j] = ikj
+        # Optional: detect negative cycles (diagonal < 0)
+        # has_neg_cycle = any(dist[i][i] < 0 for i in range(n))
+        return dist
+
+    # 4) Bellman–Ford (handles negative edges; detects negative cycles reachable from src)
+    def bellman_ford(self, n: int, edges: List[Tuple[int,int,int]], src: int) -> Tuple[List[int], bool]:
+        """
+        Returns (dist, neg_cycle_reachable)
+        neg_cycle_reachable=True means some node can be relaxed on the (n)th pass (reachable from src).
+        """
+        dist = [INF]*n
+        dist[src] = 0
+        # Relax edges n-1 times
+        for _ in range(n-1):
+            changed = False
+            for u,v,w in edges:
+                if dist[u] != INF and dist[u] + w < dist[v]:
+                    dist[v] = dist[u] + w
+                    changed = True
+            if not changed:
+                break
+        # Check for negative cycle reachable from src
+        neg_cycle = False
+        for u,v,w in edges:
+            if dist[u] != INF and dist[u] + w < dist[v]:
+                neg_cycle = True
+                break
+        return dist, neg_cycle
