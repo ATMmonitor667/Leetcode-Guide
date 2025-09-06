@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+README.md
+@@ -0,0 +1,121 @@
+>>>>>>> 9b278962801e38318f80b9b27296764084682f0b
 # 🚀 LeetCode Guide
 
 A comprehensive collection of algorithmic templates, data structures, and problem solutions for competitive programming and technical interviews.
@@ -80,6 +85,10 @@ distances = graph_solver.dijkstra(3, edges, 0)
 - Classical DP patterns
 - Optimization techniques
 - State space reduction methods
+<<<<<<< HEAD
+=======
+- travelling salesmen problem
+>>>>>>> 9b278962801e38318f80b9b27296764084682f0b
 
 ### Advanced Data Structures
 - Range Query Data Structures
@@ -105,6 +114,7 @@ Feel free to contribute by:
 3. Adding more problem solutions
 4. Improving documentation
 
+<<<<<<< HEAD
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
@@ -113,9 +123,15 @@ This project is open source and available under the [MIT License](LICENSE).
 
 - LeetCode for providing an excellent platform for practicing algorithms
 - The competitive programming community for sharing knowledge and techniques
+=======
+
+>>>>>>> 9b278962801e38318f80b9b27296764084682f0b
 
 ---
 
 **Happy Coding! 🎉**
+<<<<<<< HEAD
 
 *Built with ❤️ for the programming community*
+=======
+>>>>>>> 9b278962801e38318f80b9b27296764084682f0b
