@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-=======
-README.md
-@@ -0,0 +1,121 @@
->>>>>>> 9b278962801e38318f80b9b27296764084682f0b
+
 # 🚀 LeetCode Guide
 
 A comprehensive collection of algorithmic templates, data structures, and problem solutions for competitive programming and technical interviews.
