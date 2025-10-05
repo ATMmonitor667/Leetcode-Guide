@@ -1,9 +1,9 @@
 Here’s your **24-problem ladder** (learning-optimized order) with **type + link + difficulty**:
 
-1. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) — *Sliding Window, Hash/Set* — **1200**
-2. [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) — *Prefix Sum, HashMap* — **1400**
-3. [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) — *Hash Set, Linear Scan* — **1500**
-4. [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) — *Sliding Window, Counting* — **1700**
+check 1. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) — *Sliding Window, Hash/Set* — **1200**
+2. check [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) — *Prefix Sum, HashMap* — **1400**
+3. check  [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) — *Hash Set, Linear Scan* — **1500**
+4. chckec[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) — *Sliding Window, Counting* — **1700**
 5. [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) — *Monotonic Deque* — **1700**
 6. [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) — *Two Pointers / Stack* — **1700**
 7. [Number of Islands](https://leetcode.com/problems/number-of-islands/) — *DFS/BFS (grid)* — **1300**
