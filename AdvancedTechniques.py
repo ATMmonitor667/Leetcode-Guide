@@ -212,7 +212,6 @@ class LCT:
             self.val = val          # node value
             self.sum = val          # aggregate on splay
             self.is_root = True     # whether this node is a root of aux tree
-
     def __init__(self, n: int, values: List[int]=None):
         self.n = n
         self.t = [self.Node(0) for _ in range(n)]
@@ -220,47 +219,38 @@ class LCT:
             for i, v in enumerate(values):
                 self.t[i].val = v
                 self._pull(self.t[i])
-
     # ---------- splay helpers ----------
     def _is_right(self, x):
         return x.p and x.p.ch[1] is x
-
     def _push(self, x):
         if x and x.rev:
             x.ch[0], x.ch[1] = x.ch[1], x.ch[0]
             if x.ch[0]: x.ch[0].rev ^= True
             if x.ch[1]: x.ch[1].rev ^= True
             x.rev = False
-
     def _pull(self, x):
         x.sum = x.val
         for c in x.ch:
             if c: x.sum += c.sum
-
     def _rotate(self, x):
         p = x.p
         gp = p.p
         d = 1 if p.ch[1] is x else 0
         b = x.ch[d ^ 1]
-
         # push down before rotate
         self._push(p); self._push(x)
-
         # rotation
         x.ch[d ^ 1] = p
         p.p = x
         p.ch[d] = b
         if b: b.p = p
-
         x.p = gp
         if gp:
             if gp.ch[0] is p: gp.ch[0] = x
             elif gp.ch[1] is p: gp.ch[1] = x
         x.is_root = p.is_root
         p.is_root = False
-
         self._pull(p); self._pull(x)
-
     def _splay(self, x):
         self._push(x)
         while not x.is_root:
@@ -272,7 +262,6 @@ class LCT:
                 else:
                     self._rotate(x)
             self._rotate(x)
-
     def _access(self, x):
         """Expose path to root; after this, x is the rightmost node on its aux chain."""
         last = None
@@ -291,13 +280,11 @@ class LCT:
             v = v.p
         self._splay(x)
         return last
-
     def _evert(self, x):
         self._access(x)
         x.rev ^= True
         self._push(x)
         self._pull(x)
-
     def _find_root(self, x):
         self._access(x)
         while x.ch[0]:
@@ -305,16 +292,13 @@ class LCT:
             x = x.ch[0]
         self._splay(x)
         return x
-
     # ---------- API ----------
     def make_root(self, u: int):
         self._evert(self.t[u])
-
     def connected(self, u: int, v: int) -> bool:
         ru = self._find_root(self.t[u])
         rv = self._find_root(self.t[v])
         return ru is rv
-
     def link(self, u: int, v: int):
         """Link u as child of v (assumes different trees)."""
         if self.connected(u, v):
@@ -324,7 +308,6 @@ class LCT:
         self.t[u].p = self.t[v]  # preferred parent pointer
         # Access to update aux structures
         self._access(self.t[u])
-
     def cut(self, u: int, v: int):
         """Cut the edge u—v if it exists."""
         self.make_root(u)
@@ -337,13 +320,11 @@ class LCT:
             x.ch[0].is_root = True
             x.ch[0] = None
             self._pull(x)
-
     def set_val(self, u: int, value: int):
         x = self.t[u]
         self._access(x)
         x.val = value
         self._pull(x)
-
     def path_sum(self, u: int, v: int) -> int:
         self.make_root(u)
         self._access(self.t[v])

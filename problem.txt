@@ -1,0 +1,27 @@
+Here’s your **24-problem ladder** (learning-optimized order) with **type + link + difficulty**:
+
+1. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) — *Sliding Window, Hash/Set* — **1200**
+2. [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) — *Prefix Sum, HashMap* — **1400**
+3. [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) — *Hash Set, Linear Scan* — **1500**
+4. [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) — *Sliding Window, Counting* — **1700**
+5. [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) — *Monotonic Deque* — **1700**
+6. [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) — *Two Pointers / Stack* — **1700**
+7. [Number of Islands](https://leetcode.com/problems/number-of-islands/) — *DFS/BFS (grid)* — **1300**
+8. [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) — *Graph, Topological Sort* — **1400**
+9. [AoC 2018 Day 7 — The Sum of Its Parts](https://adventofcode.com/2018/day/7) — *Topological Sort (+ tie-break)* — **1600**
+10. [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) — *Graph, Eulerian Path (Hierholzer)* — **1900**
+11. [Network Delay Time](https://leetcode.com/problems/network-delay-time/) — *Dijkstra, Heap* — **1500**
+12. [AoC 2021 Day 15 — Chiton](https://adventofcode.com/2021/day/15) — *Grid Dijkstra, Scaling* — **1800**
+13. [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) — *Layered BFS / Bellman-Ford* — **1800**
+14. [AoC 2019 Day 20 — Donut Maze](https://adventofcode.com/2019/day/20) — *BFS with Portals (+ recursive levels)* — **2000**
+15. [Accounts Merge](https://leetcode.com/problems/accounts-merge/) — *Union-Find (DSU), Graph* — **1500**
+16. [Mini Parser](https://leetcode.com/problems/mini-parser/) — *Recursive Descent, Recursion/Stack* — **1650**
+17. [Basic Calculator III](https://leetcode.com/problems/basic-calculator-iii/) — *Recursive Descent (precedence/parentheses), Stacks* — **2200**
+18. [Parse Lisp Expression](https://leetcode.com/problems/parse-lisp-expression/) — *Recursive Descent, Eval w/ lexical scope* — **2100**
+19. [AoC 2020 Day 19 — Monster Messages](https://adventofcode.com/2020/day/19) — *Grammar Parsing, Recursive rules + memo* — **2400**
+20. [Word Search II](https://leetcode.com/problems/word-search-ii/) — *Trie + DFS Backtracking* — **2000**
+21. [Burst Balloons](https://leetcode.com/problems/burst-balloons/) — *Interval DP (partition)* — **2200**
+22. [Cherry Pickup](https://leetcode.com/problems/cherry-pickup/) — *Grid DP (two agents / 3-state)* — **2600**
+23. [AoC 2021 Day 23 — Amphipod](https://adventofcode.com/2021/day/23) — *State-space Search (Dijkstra/A*)* — **2700**
+24. [AoC 2019 Day 18 — Many-Worlds Interpretation](https://adventofcode.com/2019/day/18) — *BFS + Bitmask DP (1→4 robots)* — **2900**
+----------------------------------------------------------------------------------------------------------------------------------------------------------

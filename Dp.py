@@ -44,7 +44,6 @@ class Solution:
     def digit_dp(self, R: int, K: int) -> int:
         digits = list(map(int, str(R)))
         n = len(digits)
-
         @lru_cache(None)
         def dfs(i: int, tight: bool, started: bool, mod_sum: int) -> int:
             if i == n:
@@ -59,7 +58,6 @@ class Solution:
                 # put extra predicate checks here (e.g., forbid certain patterns)
                 total += dfs(i + 1, ntight, nstarted, nmod)
             return total
-
         return dfs(0, True, False, 0)
     #-----------------------------------------------------------
     def knapsack_01(self, weights: List[int], values: List[int], W: int) -> int:
@@ -103,9 +101,7 @@ class Solution:
                 if word1[i - 1] == word2[j - 1]:
                     dp[i][j] = dp[i - 1][j - 1]
                 else:
-                    dp[i][j] = min(dp[i - 1][j] + 1,    # delete
-                                   dp[i][j - 1] + 1,    # insert
-                                   dp[i - 1][j - 1] + 1)
+                    dp[i][j] = min(dp[i - 1][j] + 1, dp[i][j - 1] + 1, dp[i - 1][j - 1] + 1)
         return dp[n][m]
     #-----------------------------------------------------------
     def knuth_opt(self, a: List[int]) -> int:
@@ -113,16 +109,13 @@ class Solution:
         n = len(a)
         ps = [0]
         for x in a: ps.append(ps[-1] + x)
-
         def cost(i: int, j: int) -> int:
             return ps[j] - ps[i]
-
         dp = [[0]* (n+1) for _ in range(n+1)]
         opt = [[0]* (n+1) for _ in range(n+1)]
         for i in range(n):
             dp[i][i+1] = 0
             opt[i][i+1] = i
-
         for len_ in range(2, n+1):
             for i in range(0, n - len_ + 1):
                 j = i + len_

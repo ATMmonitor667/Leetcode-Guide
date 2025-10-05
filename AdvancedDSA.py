@@ -18,18 +18,15 @@ class LazySegTree:
             self.seg[self.size+i] = v
         for i in range(self.size-1, 0, -1):
             self.seg[i] = self.seg[i<<1] + self.seg[i<<1|1]
-
     def _apply(self, idx: int, add: int, length: int):
         self.seg[idx] += add * length
         self.lz[idx]  += add
-
     def _push(self, idx: int, length: int):
         if self.lz[idx]:
             mid_len = length // 2
             self._apply(idx<<1,     self.lz[idx], mid_len)
             self._apply(idx<<1|1,   self.lz[idx], length - mid_len)
             self.lz[idx] = 0
-
     def _range_add(self, idx: int, l: int, r: int, ql: int, qr: int, val: int):
         if qr < l or r < ql: return
         if ql <= l and r <= qr:
@@ -40,17 +37,14 @@ class LazySegTree:
         self._range_add(idx<<1, l, m, ql, qr, val)
         self._range_add(idx<<1|1, m+1, r, ql, qr, val)
         self.seg[idx] = self.seg[idx<<1] + self.seg[idx<<1|1]
-
     def range_add(self, l: int, r: int, val: int):
         self._range_add(1, 0, self.size-1, l, r, val)
-
     def _range_sum(self, idx: int, l: int, r: int, ql: int, qr: int) -> int:
         if qr < l or r < ql: return 0
         if ql <= l and r <= qr: return self.seg[idx]
         self._push(idx, r-l+1)
         m = (l+r)//2
         return self._range_sum(idx<<1, l, m, ql, qr) + self._range_sum(idx<<1|1, m+1, r, ql, qr)
-
     def range_sum(self, l: int, r: int) -> int:
         return self._range_sum(1, 0, self.size-1, l, r)
 
@@ -64,14 +58,12 @@ class Fenwick:
     def __init__(self, n: int):
         self.n = n
         self.ft = [0]*(n+1)
-
     def add(self, i: int, delta: int):
         # 0-indexed external; internally 1-indexed
         i += 1
         while i <= self.n:
             self.ft[i] += delta
             i += i & -i
-
     def sum(self, i: int) -> int:
         # prefix sum [0..i]
         i += 1
@@ -80,7 +72,6 @@ class Fenwick:
             s += self.ft[i]
             i -= i & -i
         return s
-
     def range_sum(self, l: int, r: int) -> int:
         return self.sum(r) - (self.sum(l-1) if l > 0 else 0)
 
@@ -90,20 +81,16 @@ class FenwickRange:
         self.n = n
         self.B1 = Fenwick(n)
         self.B2 = Fenwick(n)
-
     def _add(self, ft: Fenwick, idx: int, delta: int):
         ft.add(idx, delta)
-
     def range_add(self, l: int, r: int, val: int):
         # add val to [l, r]
         self._add(self.B1, l, val)
         self._add(self.B1, r+1, -val)
         self._add(self.B2, l, val*(l-1))
         self._add(self.B2, r+1, -val*r)
-
     def _prefix_sum(self, x: int) -> int:
         return self.B1.sum(x)*x - self.B2.sum(x)
-
     def range_sum(self, l: int, r: int) -> int:
         return self._prefix_sum(r) - (self._prefix_sum(l-1) if l > 0 else 0)
 
@@ -119,7 +106,6 @@ class PSTNode:
         self.left = left
         self.right = right
         self.val = val
-
 class PersistentSegTree:
     def __init__(self, arr: List[int]):
         self.n = len(arr)
@@ -131,7 +117,6 @@ class PersistentSegTree:
             right = build(m+1, r)
             return PSTNode(left, right, left.val + right.val)
         self.versions = [build(0, self.n-1)]  # version 0
-
     def _update(self, node: PSTNode, l: int, r: int, idx: int, delta: int) -> PSTNode:
         if l == r:
             return PSTNode(val=node.val + delta)
@@ -142,18 +127,15 @@ class PersistentSegTree:
         else:
             new_right = self._update(node.right, m+1, r, idx, delta)
             return PSTNode(node.left, new_right, node.left.val + new_right.val)
-
     def point_update_new_version(self, version_idx: int, pos: int, delta: int) -> int:
         root = self._update(self.versions[version_idx], 0, self.n-1, pos, delta)
         self.versions.append(root)
         return len(self.versions) - 1  # new version id
-
     def _query(self, node: PSTNode, l: int, r: int, ql: int, qr: int) -> int:
         if qr < l or r < ql: return 0
         if ql <= l and r <= qr: return node.val
         m = (l+r)//2
         return self._query(node.left, l, m, ql, qr) + self._query(node.right, m+1, r, ql, qr)
-
     def range_sum(self, version_idx: int, l: int, r: int) -> int:
         return self._query(self.versions[version_idx], 0, self.n-1, l, r)
 
@@ -190,7 +172,6 @@ def _split(t: Optional[TreapNode], key: int) -> Tuple[Optional[TreapNode], Optio
         t.left = b
         _pull(t)
         return a, t
-
 def _merge(a: Optional[TreapNode], b: Optional[TreapNode]) -> Optional[TreapNode]:
     if not a or not b: return a or b
     if a.prio > b.prio:
@@ -201,11 +182,9 @@ def _merge(a: Optional[TreapNode], b: Optional[TreapNode]) -> Optional[TreapNode
         b.left = _merge(a, b.left)
         _pull(b)
         return b
-
 class Treap:
     def __init__(self):
         self.root: Optional[TreapNode] = None
-
     def insert(self, x: int):
         # Allow duplicates: split by key x, then split right by x+1 to isolate equals
         left, right = _split(self.root, x)
@@ -213,7 +192,6 @@ class Treap:
         new_node = TreapNode(x)
         mid = _merge(mid, new_node)
         self.root = _merge(_merge(left, mid), right)
-
     def erase(self, x: int):
         left, right = _split(self.root, x)
         mid, right = _split(right, x+1)  # mid holds all = x
@@ -226,14 +204,12 @@ class Treap:
             return _merge(t.left, t.right)
         mid = _erase_one(mid)
         self.root = _merge(_merge(left, mid), right)
-
     def count_less(self, x: int) -> int:
         # number of keys < x
         left, right = _split(self.root, x)
         res = _sz(left)
         self.root = _merge(left, right)
         return res
-
     def kth(self, k: int) -> Optional[int]:
         # 0-indexed k-th smallest; return None if out of range
         t = self.root
@@ -270,7 +246,6 @@ class SparseTableMin:
             for i in range(self.n - step + 1):
                 row[i] = min(prev[i], prev[i + half])
             j += 1
-
     def range_min(self, l: int, r: int) -> int:
         # inclusive l..r
         k = self.LOG[r - l + 1]
@@ -287,12 +262,10 @@ class DSURollback:
         self.sz  = [1]*n
         self.ops = []  # stack of (changed, a, b) to rollback
         self.cc  = n   # number of components
-
     def find(self, a: int) -> int:
         while a != self.par[a]:
             a = self.par[a]
         return a
-
     def union(self, a: int, b: int) -> bool:
         a = self.find(a); b = self.find(b)
         if a == b:
@@ -306,10 +279,8 @@ class DSURollback:
         self.ops.append((1, a, b))
         self.cc -= 1
         return True
-
     def snapshot(self) -> int:
         return len(self.ops)
-
     def rollback(self, snap: Optional[int]=None):
         # if snap is None: rollback one step; else rollback to snapshot
         if snap is None:
