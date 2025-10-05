@@ -6,7 +6,7 @@ check 1. [Longest Substring Without Repeating Characters](https://leetcode.com/p
 4. chckec[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) — *Sliding Window, Counting* — **1700**
 5. [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) — *Monotonic Deque* — **1700**
 6. [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) — *Two Pointers / Stack* — **1700**
-7. [Number of Islands](https://leetcode.com/problems/number-of-islands/) — *DFS/BFS (grid)* — **1300**
+7. check[Number of Islands](https://leetcode.com/problems/number-of-islands/) — *DFS/BFS (grid)* — **1300**
 8. [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) — *Graph, Topological Sort* — **1400**
 9. [AoC 2018 Day 7 — The Sum of Its Parts](https://adventofcode.com/2018/day/7) — *Topological Sort (+ tie-break)* — **1600**
 10. [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) — *Graph, Eulerian Path (Hierholzer)* — **1900**
