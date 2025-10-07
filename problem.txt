@@ -8,11 +8,11 @@ check 1. [Longest Substring Without Repeating Characters](https://leetcode.com/p
 6. [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) — *Two Pointers / Stack* — **1700**
 7. check[Number of Islands](https://leetcode.com/problems/number-of-islands/) — *DFS/BFS (grid)* — **1300**
 8. check[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) — *Graph, Topological Sort* — **1400**
-9. [AoC 2018 Day 7 — The Sum of Its Parts](https://adventofcode.com/2018/day/7) — *Topological Sort (+ tie-break)* — **1600**
+9. check[AoC 2018 Day 7 — The Sum of Its Parts](https://adventofcode.com/2018/day/7) — *Topological Sort (+ tie-break)* — **1600**
 10. [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) — *Graph, Eulerian Path (Hierholzer)* — **1900**
-11. [Network Delay Time](https://leetcode.com/problems/network-delay-time/) — *Dijkstra, Heap* — **1500**
+11. check[Network Delay Time](https://leetcode.com/problems/network-delay-time/) — *Dijkstra, Heap* — **1500**
 12. [AoC 2021 Day 15 — Chiton](https://adventofcode.com/2021/day/15) — *Grid Dijkstra, Scaling* — **1800**
-13. [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) — *Layered BFS / Bellman-Ford* — **1800**
+13. check[Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) — *Layered BFS / Bellman-Ford* — **1800**
 14. [AoC 2019 Day 20 — Donut Maze](https://adventofcode.com/2019/day/20) — *BFS with Portals (+ recursive levels)* — **2000**
 15. [Accounts Merge](https://leetcode.com/problems/accounts-merge/) — *Union-Find (DSU), Graph* — **1500**
 16. [Mini Parser](https://leetcode.com/problems/mini-parser/) — *Recursive Descent, Recursion/Stack* — **1650**
