@@ -127,6 +127,7 @@ This project is open source and available under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0001-two-sum) |
+| [0054-spiral-matrix](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0054-spiral-matrix) |
 | [0169-majority-element](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0169-majority-element) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/3764-maximum-sum-with-at-most-k-elements) |
@@ -151,6 +152,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0054-spiral-matrix) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Divide and Conquer
 |  |
@@ -160,4 +162,8 @@ This project is open source and available under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
