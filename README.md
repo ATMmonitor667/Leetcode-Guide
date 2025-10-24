@@ -177,6 +177,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0069-sqrtx) |
 | [0713-subarray-product-less-than-k](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0713-subarray-product-less-than-k) |
 ## Sliding Window
 |  |
@@ -199,4 +200,5 @@ This project is open source and available under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
