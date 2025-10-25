@@ -136,6 +136,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0239-sliding-window-maximum](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0239-sliding-window-maximum) |
 | [0713-subarray-product-less-than-k](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0713-subarray-product-less-than-k) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0895-shortest-path-to-get-all-keys) |
+| [0940-fruit-into-baskets](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0940-fruit-into-baskets) |
 | [1833-find-the-highest-altitude](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1833-find-the-highest-altitude) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/3764-maximum-sum-with-at-most-k-elements) |
@@ -148,6 +149,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0041-first-missing-positive](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0169-majority-element) |
+| [0940-fruit-into-baskets](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0940-fruit-into-baskets) |
 | [3928-split-and-merge-array-transformation](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/3928-split-and-merge-array-transformation) |
 ## Greedy
 |  |
@@ -193,6 +195,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0239-sliding-window-maximum) |
 | [0713-subarray-product-less-than-k](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0713-subarray-product-less-than-k) |
+| [0940-fruit-into-baskets](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0940-fruit-into-baskets) |
 ## Prefix Sum
 |  |
 | ------- |
