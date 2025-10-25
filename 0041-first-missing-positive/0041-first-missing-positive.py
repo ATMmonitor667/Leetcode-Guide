@@ -14,10 +14,9 @@ class Solution(object):
         miniPositive = 1
         if miniPositive not in nums:
             return miniPositive
-        
-        while True:
+        flag = True
+        while flag:
             if miniPositive + 1 in nums:
                 miniPositive = miniPositive + 1
             if miniPositive + 1 not in nums:
-                nums = []
                 return miniPositive + 1
