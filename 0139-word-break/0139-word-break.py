@@ -6,28 +6,23 @@ class Solution(object):
         :rtype: bool
         """
 
-        wordSet = set(wordDict)
+        word_set = set(wordDict)
         memo = {}
 
-        def dfs(index, path):
+        def dfs(index):
             if index == len(s):
-                return path == "" or path in wordSet
-
-            if (index, path) in memo:
-                return memo[(index, path)]
-
-            res = False
-
+                return True
+            if index in memo:
+                return memo[index]
             
-            new_path = path + s[index]
-            if new_path in wordSet:
-                res = dfs(index + 1, "") or dfs(index + 1, new_path)
-            else:
-                res = dfs(index + 1, new_path)
-
-            memo[(index, path)] = res
-            return res
-
-        return dfs(0, "")
+            for end in range(index + 1, len(s) + 1):
+                if s[index:end] in word_set and dfs(end):
+                    memo[index] = True
+                    return True
+            
+            memo[index] = False
+            return False
+        
+        return dfs(0)
 
         
