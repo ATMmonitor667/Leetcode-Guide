@@ -133,6 +133,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0066-plus-one](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0239-sliding-window-maximum) |
 | [0419-battleships-in-a-board](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0419-battleships-in-a-board) |
 | [0713-subarray-product-less-than-k](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0713-subarray-product-less-than-k) |
@@ -150,6 +151,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0041-first-missing-positive](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0217-contains-duplicate) |
 | [0940-fruit-into-baskets](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0940-fruit-into-baskets) |
 | [3928-split-and-merge-array-transformation](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/3928-split-and-merge-array-transformation) |
 ## Greedy
@@ -161,6 +163,7 @@ This project is open source and available under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0217-contains-duplicate) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Heap (Priority Queue)
 |  |
