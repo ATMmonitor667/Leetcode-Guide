@@ -18,19 +18,18 @@ class Solution(object):
         while queue:
             length = len(queue)
             inter = []
+           
             for i in range(length):
                 node = queue.popleft()
-
-                inter.append(node.val)
+                if zig%2 == 0:
+                    inter.append(node.val)
+                else:
+                    inter = [node.val]+inter
                 if node.left:
                     queue.append(node.left)
                 if node.right:
                     queue.append(node.right)
-            if(zig%2 == 0):
-                ans.append(inter)
-            if(zig%2 == 1):
-                
-                ans.append(inter[::-1])
+            ans.append(inter)
             zig+=1
         return ans
                 
