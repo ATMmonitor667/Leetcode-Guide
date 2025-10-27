@@ -14,18 +14,11 @@ class Solution(object):
         res = []
         def dfs(root):
             if not root:
-                return 
+                return []
+            if root and root.left is None and root.right is None:
+                return [root.val]
             else:
-                dfs(root.left)
-                dfs(root.right)
-                if root and root.left is None and root.right is None:
-                    res.append(root.val)
-                    return 
-        dfs(root1)
-        res1 = res
-        res = []
-        dfs(root2)
-        res2 = res
-        print(res1, res2)
-        return res1 == res2
-        
+                return dfs(root.left) + dfs(root.right)
+                
+        return dfs(root1) == dfs(root2)
+        print(res)
