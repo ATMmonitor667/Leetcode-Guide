@@ -222,6 +222,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0100-same-tree](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0895-shortest-path-to-get-all-keys) |
 | [1254-deepest-leaves-sum](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1254-deepest-leaves-sum) |
@@ -253,6 +254,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0419-battleships-in-a-board](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0419-battleships-in-a-board) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0904-leaf-similar-trees) |
@@ -265,6 +267,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0904-leaf-similar-trees) |
@@ -277,6 +280,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0904-leaf-similar-trees) |
 | [1254-deepest-leaves-sum](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1254-deepest-leaves-sum) |
