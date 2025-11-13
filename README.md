@@ -236,6 +236,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0069-sqrtx) |
 | [1014-k-closest-points-to-origin](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1014-k-closest-points-to-origin) |
