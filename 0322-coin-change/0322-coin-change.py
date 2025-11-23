@@ -5,25 +5,11 @@ class Solution(object):
         :type amount: int
         :rtype: int
         """
-        n = len(coins)
-        memo = {}
+        dp = [float('inf')] * (amount + 1)
+        dp[0] = 0
 
-        def dfs(index, remain):
-            if remain == 0:
-                return 0
+        for coin in coins:
+            for curr in range(coin, amount + 1):
+                dp[curr] = min(dp[curr], dp[curr - coin] + 1)
 
-            if index == n or remain < 0:
-                return float('inf')
-            
-            if (index, remain) in memo:
-                return memo[(index, remain)]
-
-           
-            take = 1 + dfs(index, remain - coins[index])
-            skip = dfs(index + 1, remain)
-
-            memo[(index, remain)] = min(take, skip)
-            return memo[(index, remain)]
-
-        res = dfs(0, amount)
-        return res if res != float('inf') else -1
+        return dp[amount] if dp[amount] != float('inf') else -1
