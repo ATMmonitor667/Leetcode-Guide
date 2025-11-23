@@ -5,20 +5,21 @@ class Solution(object):
         :type coins: List[int]
         :rtype: int
         """
-        memo = {}
-        def dfs(index, amount):
-            if amount == 0:
-                return 1
-            if amount < 0:
-                return 0
-            if (index, amount) in memo:
-                return memo[(index, amount)]
-            else:
-                res = 0
-                if index < len(coins):
-                   res = dfs(index, amount -coins[index]) + dfs(index+1, amount)
-                memo[(index, amount)] = res
-                return res
-        val = dfs(0, amount)
-        return val
-        
+        dp = [[0 for _ in range(amount + 1)]
+            for _ in range(len(coins) + 1)]
+
+        # Base case: 1 way to make amount 0
+        for i in range(len(coins) + 1):
+            dp[i][0] = 1
+
+        for i in range(1, len(coins) + 1):
+            coin_val = coins[i - 1]
+
+            for curr in range(1, amount + 1):
+                # Not take the coin
+                dp[i][curr] = dp[i - 1][curr]
+
+                # Take the coin
+                if curr - coin_val >= 0:
+                    dp[i][curr] += dp[i][curr - coin_val]
+        return dp[len(coins)][amount]
