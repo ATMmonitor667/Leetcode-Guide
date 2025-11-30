@@ -11,16 +11,12 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
-        res = []
-        def dfs(root):
-            if root is None:
-                return 
-            else:
-                res.append(root.val)
-                dfs(root.left)
-                dfs(root.right)
-        dfs(root)
-        kth = heapq.nsmallest(k, res)[-1]
-        return kth
+        def inorder_traversal(node):
+            if not node:
+                return []
+            return inorder_traversal(node.left) + [node.val] + inorder_traversal(node.right)
+
+        sorted_elements = inorder_traversal(root)
+        return sorted_elements[k - 1]
 
     
