@@ -259,6 +259,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0100-same-tree](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0100-same-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0419-battleships-in-a-board](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0419-battleships-in-a-board) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0538-convert-bst-to-greater-tree](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0538-convert-bst-to-greater-tree) |
@@ -274,6 +275,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0538-convert-bst-to-greater-tree](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0538-convert-bst-to-greater-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -288,6 +290,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0538-convert-bst-to-greater-tree](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0538-convert-bst-to-greater-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -309,6 +312,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## Binary Search Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0538-convert-bst-to-greater-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Geometry
