@@ -63,4 +63,3 @@ class Solution(object):
                     max_sz = max(max_sz, sz)
 
         return max_sz
-        
