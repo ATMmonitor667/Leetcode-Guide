@@ -132,6 +132,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0054-spiral-matrix](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0073-set-matrix-zeroes) |
+| [0090-subsets-ii](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0090-subsets-ii) |
 | [0169-majority-element](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0217-contains-duplicate) |
@@ -246,6 +247,7 @@ This project is open source and available under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0039-combination-sum) |
+| [0090-subsets-ii](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0090-subsets-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -280,6 +282,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0190-reverse-bits) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0895-shortest-path-to-get-all-keys) |
 ## Depth-First Search
