@@ -9,9 +9,7 @@ class Solution(object):
         def dfs(index, target):
             if target == 0:
                 return 1 
-            if target < 0:
-                return 0
-            if index > len(nums)-1:
+            if target < 0 or index > len(nums)-1 :
                 return 0
             if (index, target) in memo:
                 return memo[(index, target)]
