@@ -128,6 +128,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | ------- |
 | [0001-two-sum](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0041-first-missing-positive) |
 | [0054-spiral-matrix](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0066-plus-one) |
@@ -254,6 +255,7 @@ This project is open source and available under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0090-subsets-ii) |
 ## Breadth-First Search
 |  |
