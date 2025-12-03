@@ -146,6 +146,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0922-sort-array-by-parity-ii](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0922-sort-array-by-parity-ii) |
 | [0940-fruit-into-baskets](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0940-fruit-into-baskets) |
 | [1014-k-closest-points-to-origin](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1014-k-closest-points-to-origin) |
+| [1470-shuffle-the-array](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1470-shuffle-the-array) |
 | [1753-path-with-minimum-effort](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1753-path-with-minimum-effort) |
 | [1833-find-the-highest-altitude](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1833-find-the-highest-altitude) |
 | [1861-rotating-the-box](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1861-rotating-the-box) |
