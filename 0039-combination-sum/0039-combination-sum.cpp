@@ -1,28 +1,32 @@
 class Solution {
 public:
-    void dfs(vector<int>& candidates, int index, int target,
-             vector<int>& path, vector<vector<int>>& result) {
-        if (target == 0) {
+    void dfs(
+        vector<int>& candidates,
+        int target,
+        vector<vector<int>>& result,
+        vector<int>& path,
+        int current,
+        int index
+    ) {
+        if (current == target) {
             result.push_back(path);
             return;
         }
-        if (index >= candidates.size() || target < 0) {
+
+        if (current > target || index >= candidates.size()) {
             return;
         }
 
-        // include current candidate (stay on same index for reuse)
         path.push_back(candidates[index]);
-        dfs(candidates, index, target - candidates[index], path, result);
+        dfs(candidates, target, result, path, current + candidates[index], index);
         path.pop_back();
-
-        // exclude current candidate (move to next index)
-        dfs(candidates, index + 1, target, path, result);
+        dfs(candidates, target, result, path, current, index + 1);
     }
 
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-        vector<vector<int>> res;
+        vector<vector<int>> result;
         vector<int> path;
-        dfs(candidates, 0, target, path, res);
-        return res;
+        dfs(candidates, target, result, path, 0, 0);
+        return result;
     }
 };
