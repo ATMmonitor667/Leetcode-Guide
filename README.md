@@ -225,6 +225,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | ------- |
 | [0169-majority-element](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0191-number-of-1-bits) |
 | [1014-k-closest-points-to-origin](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1014-k-closest-points-to-origin) |
 ## Counting
 |  |
@@ -302,6 +303,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0078-subsets](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0191-number-of-1-bits) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0895-shortest-path-to-get-all-keys) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Depth-First Search
