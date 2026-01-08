@@ -8,7 +8,10 @@ class ParkingSystem(object):
         :type small: int
         """
         self.container = []
-        self.container += [big, medium, small]
+        self.container.append(big)
+        self.container.append(medium)
+        self.container.append(small)
+
         
 
     def addCar(self, carType):
