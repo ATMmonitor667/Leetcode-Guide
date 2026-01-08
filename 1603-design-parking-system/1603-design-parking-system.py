@@ -23,7 +23,7 @@ class ParkingSystem(object):
         #lookUp = len(container) - cirr
         if self.container[carType-1] == 0:
             return False
-        if self.container[carType-1] !=0:
+        else:
             self.container[carType-1]-=1
             return True
 
