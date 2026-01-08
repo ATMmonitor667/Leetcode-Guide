@@ -19,12 +19,12 @@ class ParkingSystem(object):
         :type carType: int
         :rtype: bool
         """
-        carType = carType - 1
+        
         #lookUp = len(container) - cirr
-        if self.container[carType] == 0:
+        if self.container[carType-1] == 0:
             return False
-        if self.container[carType] !=0:
-            self.container[carType]-=1
+        if self.container[carType-1] !=0:
+            self.container[carType-1]-=1
             return True
 
         
