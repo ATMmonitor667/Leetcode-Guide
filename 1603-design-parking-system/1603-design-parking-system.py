@@ -1,33 +1,12 @@
-class ParkingSystem(object):
-    
-
+class ParkingSystem:
     def __init__(self, big, medium, small):
-        """
-        :type big: int
-        :type medium: int
-        :type small: int
-        """
-        self.container = []
-        self.container.append(big)
-        self.container.append(medium)
-        self.container.append(small)
-
-        
+        self.spots = [0, big, medium, small]  # index by carType
 
     def addCar(self, carType):
-        """
-        :type carType: int
-        :rtype: bool
-        """
-        
-        #lookUp = len(container) - cirr
-        if self.container[carType-1] == 0:
+        if self.spots[carType] == 0:
             return False
-        else:
-            self.container[carType-1]-=1
-            return True
-
-        
+        self.spots[carType] -= 1
+        return True
 
 
 # Your ParkingSystem object will be instantiated and called as such:
