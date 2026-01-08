@@ -152,6 +152,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0940-fruit-into-baskets](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0940-fruit-into-baskets) |
 | [1014-k-closest-points-to-origin](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1014-k-closest-points-to-origin) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1470-shuffle-the-array](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1470-shuffle-the-array) |
 | [1476-subrectangle-queries](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1476-subrectangle-queries) |
 | [1656-design-an-ordered-stream](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1656-design-an-ordered-stream) |
@@ -372,6 +373,7 @@ This project is open source and available under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Linked List
 |  |
 | ------- |
@@ -408,6 +410,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0303-range-sum-query-immutable) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1476-subrectangle-queries](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1476-subrectangle-queries) |
 | [1603-design-parking-system](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1603-design-parking-system) |
 | [1656-design-an-ordered-stream](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1656-design-an-ordered-stream) |
