@@ -145,6 +145,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0419-battleships-in-a-board](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0419-battleships-in-a-board) |
 | [0485-max-consecutive-ones](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0485-max-consecutive-ones) |
 | [0705-design-hashset](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0706-design-hashmap) |
 | [0713-subarray-product-less-than-k](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0713-subarray-product-less-than-k) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0827-making-a-large-island](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0827-making-a-large-island) |
@@ -180,6 +181,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0349-intersection-of-two-arrays](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0349-intersection-of-two-arrays) |
 | [0355-design-twitter](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0355-design-twitter) |
 | [0705-design-hashset](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0706-design-hashmap) |
 | [0940-fruit-into-baskets](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0940-fruit-into-baskets) |
 | [1656-design-an-ordered-stream](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1656-design-an-ordered-stream) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -385,6 +387,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0355-design-twitter](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0355-design-twitter) |
 | [0705-design-hashset](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0706-design-hashmap) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -419,6 +422,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0355-design-twitter](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0706-design-hashmap) |
 | [0933-number-of-recent-calls](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0933-number-of-recent-calls) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1476-subrectangle-queries](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1476-subrectangle-queries) |
@@ -434,4 +438,5 @@ This project is open source and available under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
