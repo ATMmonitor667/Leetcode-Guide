@@ -7,11 +7,19 @@ class Solution(object):
         """
         if len(s) != len(t):
             return False
-        count1 = Counter(s)
-        for i in t:
-            if i in count1:
-                count1[i]-=1
-            if count1[i] == 0:
-                del count1[i]
-        return len(count1) == 0
+
+        freq = [0] * 26
+        base = ord('a')
+
+        for ch in s:
+            freq[ord(ch) - base] += 1
+        for ch in t:
+            idx = ord(ch) - base
+            freq[idx] -= 1
+            if freq[idx] < 0:
+                return False
+
+        return True
+
+
         
