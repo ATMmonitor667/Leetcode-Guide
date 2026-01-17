@@ -319,6 +319,7 @@ This project is open source and available under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0069-sqrtx) |
