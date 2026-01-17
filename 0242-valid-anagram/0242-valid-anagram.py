@@ -8,11 +8,10 @@ class Solution(object):
         if len(s) != len(t):
             return False
         count1 = Counter(s)
-        count2 = Counter(t)
-        if len(count1) != len(count2):
-            return False
-        for k,v in count1.items():
-            if v != count2[k]:
-                return False
-        return True
+        for i in t:
+            if i in count1:
+                count1[i]-=1
+            if count1[i] == 0:
+                del count1[i]
+        return len(count1) == 0
         
