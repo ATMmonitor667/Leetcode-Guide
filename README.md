@@ -144,6 +144,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0303-range-sum-query-immutable](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0349-intersection-of-two-arrays) |
+| [0380-insert-delete-getrandom-o1](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0380-insert-delete-getrandom-o1) |
 | [0419-battleships-in-a-board](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0419-battleships-in-a-board) |
 | [0485-max-consecutive-ones](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0525-contiguous-array) |
@@ -186,6 +187,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0347-top-k-frequent-elements](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0349-intersection-of-two-arrays) |
 | [0355-design-twitter](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0355-design-twitter) |
+| [0380-insert-delete-getrandom-o1](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0380-insert-delete-getrandom-o1) |
 | [0525-contiguous-array](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0705-design-hashset) |
@@ -315,6 +317,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0009-palindrome-number](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0069-sqrtx) |
+| [0380-insert-delete-getrandom-o1](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0380-insert-delete-getrandom-o1) |
 | [1014-k-closest-points-to-origin](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1014-k-closest-points-to-origin) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2443-sum-of-number-and-its-reverse) |
@@ -437,6 +440,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0303-range-sum-query-immutable) |
 | [0355-design-twitter](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0355-design-twitter) |
+| [0380-insert-delete-getrandom-o1](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0380-insert-delete-getrandom-o1) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0706-design-hashmap) |
@@ -460,4 +464,8 @@ This project is open source and available under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0347-top-k-frequent-elements) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
