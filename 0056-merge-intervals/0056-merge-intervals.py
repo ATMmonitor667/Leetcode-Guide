@@ -5,17 +5,10 @@ class Solution(object):
         :rtype: List[List[int]]
         """
         intervals.sort(key=lambda x: x[0])
-        stack = []
-        i = 0
-        n = len(intervals)
-        while i < n:
-            j = i + 1
-            inter = intervals[i] 
-            while j < n and inter[1] >= intervals[j][0]:
-                inter[1] = max(inter[1], intervals[j][1])
-                j += 1
-            
-            stack.append(inter)
-            i = j
-            
-        return stack
+        res = []
+        for i, [s,e] in enumerate(intervals):
+            if not res or res[-1][1] < intervals[i][0]:
+                res.append([s,e])
+            else:
+                res[-1][1] = max(res[-1][1], intervals[i][1])
+        return res
