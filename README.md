@@ -146,6 +146,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0349-intersection-of-two-arrays](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0349-intersection-of-two-arrays) |
 | [0419-battleships-in-a-board](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0419-battleships-in-a-board) |
 | [0485-max-consecutive-ones](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0485-max-consecutive-ones) |
+| [0525-contiguous-array](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0706-design-hashmap) |
@@ -185,6 +186,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0347-top-k-frequent-elements](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0349-intersection-of-two-arrays) |
 | [0355-design-twitter](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0355-design-twitter) |
+| [0525-contiguous-array](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0706-design-hashmap) |
@@ -280,6 +282,7 @@ This project is open source and available under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0713-subarray-product-less-than-k) |
 | [1833-find-the-highest-altitude](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1833-find-the-highest-altitude) |
