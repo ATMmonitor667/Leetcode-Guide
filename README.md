@@ -183,6 +183,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0001-two-sum](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0073-set-matrix-zeroes) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0347-top-k-frequent-elements) |
@@ -414,6 +415,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0002-add-two-numbers](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0023-merge-k-sorted-lists) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0160-intersection-of-two-linked-lists) |
 | [0355-design-twitter](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0355-design-twitter) |
 | [0445-add-two-numbers-ii](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0445-add-two-numbers-ii) |
 | [0705-design-hashset](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0705-design-hashset) |
@@ -439,6 +441,7 @@ This project is open source and available under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0015-3sum) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0349-intersection-of-two-arrays) |
 | [0922-sort-array-by-parity-ii](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0922-sort-array-by-parity-ii) |
 | [1861-rotating-the-box](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1861-rotating-the-box) |
