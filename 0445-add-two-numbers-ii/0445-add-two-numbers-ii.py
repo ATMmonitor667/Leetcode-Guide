@@ -10,53 +10,42 @@ class Solution(object):
         :type l2: Optional[ListNode]
         :rtype: Optional[ListNode]
         """
-        arr1 = []
-        arr2 = []
+        def add(l1,l2):
+            dummy = ListNode(0)
+            cursor = dummy
+            carry = 0
 
-        while l1:
-            arr1.append(l1.val)
-            l1 = l1.next
-        while l2:
-            arr2.append(l2.val)
-            l2 = l2.next
+            while l1 or l2 or carry:
+                x = l1.val if l1 else 0
+                y = l2.val if l2 else 0
 
-        arr1 = arr1[::-1]
-        arr2 = arr2[::-1]
+                s = x + y + carry
+                carry = s // 10
+                digit = s % 10
 
-        i = 0
-        carry = 0
-        ans = []
+                cursor.next = ListNode(digit)
+                cursor = cursor.next
 
-        while (i < len(arr1) and i < len(arr2)) or carry:
-            val1 = arr1[i] if i < len(arr1) else 0
-            val2 = arr2[i] if i < len(arr2) else 0
+                l1 = l1.next if l1 else None
+                l2 = l2.next if l2 else None
 
-            total = val1 + val2 + carry
-            ans.append(total % 10)
-            carry = total // 10
-            i += 1
+            return dummy.next
+        def reverseList(head):
+            prev = None
+            current = head
+                
+            while current:
+                nextPtr = current.next    
+                current.next = prev       
+                prev = current            
+                current = nextPtr         
+                
+            return prev
+        l1 = reverseList(l1)
+        l2 = reverseList(l2)
+        l3 = add(l1,l2)
+        l3 = reverseList(l3)
+        return l3
 
-        while i < len(arr1):
-            total = arr1[i] + carry
-            ans.append(total % 10)
-            carry = total // 10
-            i += 1
-
-        while i < len(arr2):
-            total = arr2[i] + carry
-            ans.append(total % 10)
-            carry = total // 10
-            i += 1
-
-        ans = ans[::-1]
-
-        dummy = ListNode(0)
-        currNode = dummy
-
-        for val in ans:
-            currNode.next = ListNode(val)
-            currNode = currNode.next
-
-        return dummy.next
 
         
