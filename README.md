@@ -413,6 +413,7 @@ This project is open source and available under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0023-merge-k-sorted-lists) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0160-intersection-of-two-linked-lists) |
@@ -487,6 +488,7 @@ This project is open source and available under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0021-merge-two-sorted-lists) |
 ## Merge Sort
 |  |
 | ------- |
