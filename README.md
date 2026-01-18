@@ -408,6 +408,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0445-add-two-numbers-ii) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -421,6 +422,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0148-sort-list](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0234-palindrome-linked-list) |
 | [0355-design-twitter](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0355-design-twitter) |
 | [0445-add-two-numbers-ii](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0445-add-two-numbers-ii) |
 | [0705-design-hashset](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0705-design-hashset) |
@@ -448,6 +450,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0015-3sum](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0349-intersection-of-two-arrays) |
 | [0922-sort-array-by-parity-ii](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0922-sort-array-by-parity-ii) |
 | [1861-rotating-the-box](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1861-rotating-the-box) |
@@ -495,6 +498,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0002-add-two-numbers](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0234-palindrome-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
