@@ -127,6 +127,7 @@ This project is open source and available under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0040-combination-sum-ii) |
@@ -256,6 +257,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0169-majority-element) |
@@ -281,6 +283,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0349-intersection-of-two-arrays) |
 | [0713-subarray-product-less-than-k](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0713-subarray-product-less-than-k) |
