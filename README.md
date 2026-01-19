@@ -409,6 +409,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0445-add-two-numbers-ii) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -464,6 +465,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0303-range-sum-query-immutable) |
 | [0355-design-twitter](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0380-insert-delete-getrandom-o1) |
