@@ -1,20 +1,18 @@
 class Solution(object):
     def isValid(self, s):
+        myMap = { '(': ')', '[':']', '{':'}' }
         stack = []
-        for ch in s:
-            if ch in ['(', '{', '[']:
-                stack.append(ch)
+        
+        for char in s:
+            if char in myMap:
+                stack.append(char)
             else:
-                if len(stack) == 0:
+                if not stack:
                     return False
-
-                if ch == ']' and stack[-1] == '[':
-                    stack.pop()
-                elif ch == '}' and stack[-1] == '{':
-                    stack.pop()
-                elif ch == ')' and stack[-1] == '(':
-                    stack.pop()
-                else:
-                    return False 
-
+                
+                last_opener = stack.pop()
+                
+                if myMap[last_opener] != char:
+                    return False
+                    
         return len(stack) == 0
