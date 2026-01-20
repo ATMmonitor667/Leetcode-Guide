@@ -9,4 +9,4 @@ class Solution(object):
         for s in strs:
             key = ''.join(sorted(s))
             graph[key].append(s)
-        return [val for val in graph.values()]
+        return [r for r in graph.values()]
