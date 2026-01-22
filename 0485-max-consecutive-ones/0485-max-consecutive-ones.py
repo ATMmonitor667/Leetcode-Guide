@@ -4,11 +4,16 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        word = ''.join([str(i) for i in nums])
-        word = word.split('0')
-        length = 0
-        for i in word:
-            if length < len(i):
-                length = len(i)
-        return length 
+        maxLength = 0
+        currLength = 0  
+        
+        for num in nums:
+            if num == 1:
+                currLength += 1
+                maxLength = max(maxLength, currLength)
+            else:
+                currLength = 0  
+                
+        return maxLength
+   
             
