@@ -169,6 +169,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [1014-k-closest-points-to-origin](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1014-k-closest-points-to-origin) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1200-minimum-absolute-difference](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1200-minimum-absolute-difference) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1352-product-of-the-last-k-numbers) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1470-shuffle-the-array](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1470-shuffle-the-array) |
 | [1476-subrectangle-queries](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1476-subrectangle-queries) |
@@ -320,6 +321,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0560-subarray-sum-equals-k](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0713-subarray-product-less-than-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1352-product-of-the-last-k-numbers) |
 | [1833-find-the-highest-altitude](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1833-find-the-highest-altitude) |
 ## Backtracking
 |  |
@@ -361,6 +363,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0445-add-two-numbers-ii](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0445-add-two-numbers-ii) |
 | [0523-continuous-subarray-sum](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0523-continuous-subarray-sum) |
 | [1014-k-closest-points-to-origin](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1014-k-closest-points-to-origin) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1352-product-of-the-last-k-numbers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2443-sum-of-number-and-its-reverse) |
 ## Queue
@@ -520,6 +523,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0705-design-hashset](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0706-design-hashmap) |
 | [0933-number-of-recent-calls](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0933-number-of-recent-calls) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1352-product-of-the-last-k-numbers) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1476-subrectangle-queries](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1476-subrectangle-queries) |
 | [1603-design-parking-system](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1603-design-parking-system) |
@@ -530,6 +534,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0295-find-median-from-data-stream](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0933-number-of-recent-calls](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0933-number-of-recent-calls) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1352-product-of-the-last-k-numbers) |
 | [1656-design-an-ordered-stream](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1656-design-an-ordered-stream) |
 ## Hash Function
 |  |
