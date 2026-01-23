@@ -12,6 +12,8 @@ class Solution(object):
         :type root: Node
         :rtype: List[List[int]]
         """
+        if not root:
+            return []
         queue = deque([])
         queue.append(root)
         res = []
