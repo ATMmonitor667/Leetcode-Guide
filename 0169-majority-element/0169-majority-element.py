@@ -5,9 +5,9 @@ class Solution(object):
         :rtype: int
         """
         count = Counter(nums)
-        val = len(nums)//2
-        print(count)
+        n = len(nums)
         for k,v in count.items():
-            if v> val:
+            if v > int(n//2):
                 return k 
         return -1
+        
