@@ -225,6 +225,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0148-sort-list](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0217-contains-duplicate) |
+| [0295-find-median-from-data-stream](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0349-intersection-of-two-arrays) |
 | [0475-heaters](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0475-heaters) |
@@ -244,6 +245,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0355-design-twitter) |
 | [0658-find-k-closest-elements](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0658-find-k-closest-elements) |
@@ -495,6 +497,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0148-sort-list](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0234-palindrome-linked-list) |
+| [0295-find-median-from-data-stream](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0349-intersection-of-two-arrays) |
 | [0475-heaters](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0475-heaters) |
 | [0658-find-k-closest-elements](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0658-find-k-closest-elements) |
@@ -509,6 +512,7 @@ This project is open source and available under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0155-min-stack) |
+| [0295-find-median-from-data-stream](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0303-range-sum-query-immutable) |
 | [0355-design-twitter](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0380-insert-delete-getrandom-o1) |
@@ -523,6 +527,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0933-number-of-recent-calls](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0933-number-of-recent-calls) |
 | [1656-design-an-ordered-stream](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1656-design-an-ordered-stream) |
