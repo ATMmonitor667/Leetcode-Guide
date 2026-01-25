@@ -4,16 +4,16 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        maxLength = 0
-        currLength = 0  
-        
-        for num in nums:
-            if num == 1:
-                currLength += 1
-                maxLength = max(maxLength, currLength)
+        globalMax = 0
+        currMax = 0
+        for i in range(len(nums)):
+            if nums[i] == 1:
+                currMax +=1
+                globalMax = max(globalMax, currMax)
+
             else:
-                currLength = 0  
-                
-        return maxLength
+                currMax = 0
+        return globalMax
+
    
             
