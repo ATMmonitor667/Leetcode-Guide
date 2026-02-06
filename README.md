@@ -173,6 +173,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [1018-binary-prefix-divisible-by-5](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1200-minimum-absolute-difference](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1200-minimum-absolute-difference) |
 | [1352-product-of-the-last-k-numbers](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1352-product-of-the-last-k-numbers) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1470-shuffle-the-array](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1470-shuffle-the-array) |
 | [1476-subrectangle-queries](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1476-subrectangle-queries) |
@@ -213,6 +214,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0940-fruit-into-baskets](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0940-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1656-design-an-ordered-stream](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1656-design-an-ordered-stream) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -246,6 +248,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1014-k-closest-points-to-origin](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1014-k-closest-points-to-origin) |
 | [1200-minimum-absolute-difference](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1200-minimum-absolute-difference) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -586,4 +589,8 @@ This project is open source and available under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0128-longest-consecutive-sequence) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
