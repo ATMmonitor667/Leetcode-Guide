@@ -418,6 +418,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0827-making-a-large-island](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0827-making-a-large-island) |
+| [0872-leaf-similar-trees](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0872-leaf-similar-trees) |
 | [0904-leaf-similar-trees](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0904-leaf-similar-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1254-deepest-leaves-sum) |
@@ -439,6 +440,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0703-kth-largest-element-in-a-stream](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0872-leaf-similar-trees](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0872-leaf-similar-trees) |
 | [0904-leaf-similar-trees](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0904-leaf-similar-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1254-deepest-leaves-sum) |
@@ -458,6 +460,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0700-search-in-a-binary-search-tree](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0872-leaf-similar-trees](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0872-leaf-similar-trees) |
 | [0904-leaf-similar-trees](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0904-leaf-similar-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1254-deepest-leaves-sum) |
