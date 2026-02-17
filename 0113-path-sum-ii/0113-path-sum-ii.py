@@ -12,19 +12,14 @@ class Solution(object):
         :rtype: List[List[int]]
         """
         res = []
-        def dfs(root, path):
-            if not root:
-                return 
-            if root and root.left is None and root.right is None:
-                ans = sum(path) + root.val
-                if ans == targetSum:
-                    path += [root.val]
-                    res.append(path[:])
-                    return 
-                return 
-            else:
-                dfs(root.left, path + [root.val])
-                dfs(root.right,path + [root.val])
-        dfs(root, [])
+        def dfs(node, path, curSum):
+            if not node: return
+            curSum += node.val
+            path.append(node.val)
+            if not node.left and not node.right and curSum == targetSum:
+                res.append(path[:])
+            dfs(node.left, path, curSum)
+            dfs(node.right, path, curSum)
+            path.pop()
+        dfs(root, [], 0)
         return res
-        
