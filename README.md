@@ -173,6 +173,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [1014-k-closest-points-to-origin](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1014-k-closest-points-to-origin) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1200-minimum-absolute-difference](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1200-minimum-absolute-difference) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1352-product-of-the-last-k-numbers](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1352-product-of-the-last-k-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -229,6 +230,7 @@ This project is open source and available under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0334-increasing-triplet-subsequence) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1642-furthest-building-you-can-reach](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1642-furthest-building-you-can-reach) |
 | [2706-buy-two-chocolates](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2706-buy-two-chocolates) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2966-divide-array-into-arrays-with-max-difference) |
@@ -388,6 +390,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0445-add-two-numbers-ii](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0445-add-two-numbers-ii) |
 | [0523-continuous-subarray-sum](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0523-continuous-subarray-sum) |
 | [1014-k-closest-points-to-origin](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1014-k-closest-points-to-origin) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1352-product-of-the-last-k-numbers](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1352-product-of-the-last-k-numbers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2443-sum-of-number-and-its-reverse) |
