@@ -1,27 +1,14 @@
 class Solution {
 public:
     int minCostToMoveChips(vector<int>& position) {
-        int odd{0};
-        int even{0};
-        unordered_map<int, int> mp;
-        for(auto i : position)
-        {
-            if(mp.contains(i))
-            {
-                mp[i]++;
+         int odd = 0;
+        int even = 0;
+        for(int i = 0 ; i < position.size() ; i++){
+            if(position[i] % 2){
+                odd++;
             }
             else{
-                mp[i] = 1;
-            }
-        }
-        for(auto[num, count] : mp)
-        {
-            if(num%2 == 0)
-            {
-                even+=count;
-            }
-            else{
-                odd+=count;
+                even++;
             }
         }
         return min(odd, even);
