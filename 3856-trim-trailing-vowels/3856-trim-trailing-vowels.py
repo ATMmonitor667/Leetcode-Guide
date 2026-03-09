@@ -4,7 +4,7 @@ class Solution(object):
         :type s: str
         :rtype: str
         """
-        seen = "aeiou"
+        seen = set("aeiou")
         ans = 0
         for i in range(len(s)-1,-1,-1):
             if s[i] in seen:
