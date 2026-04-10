@@ -628,6 +628,7 @@ This project is open source and available under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0200-number-of-islands) |
 ## Counting Sort
 |  |
 | ------- |
