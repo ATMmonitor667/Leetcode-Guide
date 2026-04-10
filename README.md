@@ -161,6 +161,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0540-single-element-in-a-sorted-array](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0658-find-k-closest-elements) |
+| [0695-max-area-of-island](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0695-max-area-of-island) |
 | [0705-design-hashset](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0706-design-hashmap) |
 | [0713-subarray-product-less-than-k](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0713-subarray-product-less-than-k) |
@@ -290,6 +291,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0073-set-matrix-zeroes](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0419-battleships-in-a-board) |
+| [0695-max-area-of-island](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0695-max-area-of-island) |
 | [0827-making-a-large-island](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0827-making-a-large-island) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0895-shortest-path-to-get-all-keys) |
 | [1476-subrectangle-queries](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1476-subrectangle-queries) |
@@ -375,6 +377,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0429-n-ary-tree-level-order-traversal](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0617-merge-two-binary-trees](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0617-merge-two-binary-trees) |
+| [0695-max-area-of-island](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0695-max-area-of-island) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0827-making-a-large-island](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0827-making-a-large-island) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0895-shortest-path-to-get-all-keys) |
@@ -438,6 +441,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0538-convert-bst-to-greater-tree](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0538-convert-bst-to-greater-tree) |
 | [0617-merge-two-binary-trees](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0617-merge-two-binary-trees) |
+| [0695-max-area-of-island](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0695-max-area-of-island) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0827-making-a-large-island](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0827-making-a-large-island) |
@@ -629,6 +633,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0695-max-area-of-island) |
 ## Counting Sort
 |  |
 | ------- |
