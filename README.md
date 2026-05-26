@@ -133,6 +133,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0039-combination-sum](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0041-first-missing-positive) |
+| [0046-permutations](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0066-plus-one) |
@@ -363,6 +364,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | ------- |
 | [0039-combination-sum](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0113-path-sum-ii) |
