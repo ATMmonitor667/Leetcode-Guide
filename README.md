@@ -175,6 +175,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0940-fruit-into-baskets](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0940-fruit-into-baskets) |
 | [0973-k-closest-points-to-origin](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0980-unique-paths-iii](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0980-unique-paths-iii) |
 | [1014-k-closest-points-to-origin](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1014-k-closest-points-to-origin) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1200-minimum-absolute-difference](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1200-minimum-absolute-difference) |
@@ -303,6 +304,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0695-max-area-of-island](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0695-max-area-of-island) |
 | [0827-making-a-large-island](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0827-making-a-large-island) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0895-shortest-path-to-get-all-keys) |
+| [0980-unique-paths-iii](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0980-unique-paths-iii) |
 | [1476-subrectangle-queries](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1476-subrectangle-queries) |
 | [1753-path-with-minimum-effort](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1753-path-with-minimum-effort) |
 | [1861-rotating-the-box](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1861-rotating-the-box) |
@@ -376,6 +378,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0090-subsets-ii](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0216-combination-sum-iii) |
+| [0980-unique-paths-iii](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0980-unique-paths-iii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -437,6 +440,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0191-number-of-1-bits](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0268-missing-number) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0895-shortest-path-to-get-all-keys) |
+| [0980-unique-paths-iii](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0980-unique-paths-iii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Depth-First Search
 |  |
