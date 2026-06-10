@@ -40,17 +40,18 @@ public:
             return data.size();
         }
 
-        std::vector<T> toVector() const {
+        std::vector<T> getData() const {
             return data;
         }
     };
 
     vector<vector<int>> subsets(vector<int>& nums) {
-        SuperVector<SuperVector<int>> result;
+        vector<vector<int>> result;
 
         auto dfs = [&](auto&& dfs, int index, SuperVector<int> path) -> void {
             if (index == nums.size()) {
-                result.append(path);
+                auto value = path.getData();
+                result.push_back(value);
                 return;}
 
             dfs(dfs,index + 1,path + SuperVector<int>{nums[index]});
@@ -59,12 +60,9 @@ public:
 
         dfs(dfs, 0, SuperVector<int>{});
 
-        vector<vector<int>> answer;
+        
+      
 
-        for (auto subset : result.toVector()) {
-            answer.push_back(subset.toVector());
-        }
-
-        return answer;
+        return result;
     }
 };
