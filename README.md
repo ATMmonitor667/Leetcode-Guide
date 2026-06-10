@@ -445,6 +445,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0113-path-sum-ii) |
@@ -472,6 +473,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -499,6 +501,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -530,6 +533,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0234-palindrome-linked-list) |
