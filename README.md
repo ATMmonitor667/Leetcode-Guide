@@ -180,6 +180,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [1018-binary-prefix-divisible-by-5](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1200-minimum-absolute-difference](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1200-minimum-absolute-difference) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1219-path-with-maximum-gold](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1219-path-with-maximum-gold) |
 | [1352-product-of-the-last-k-numbers](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1352-product-of-the-last-k-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -305,6 +306,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0827-making-a-large-island](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0827-making-a-large-island) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0980-unique-paths-iii](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0980-unique-paths-iii) |
+| [1219-path-with-maximum-gold](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1219-path-with-maximum-gold) |
 | [1476-subrectangle-queries](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1476-subrectangle-queries) |
 | [1753-path-with-minimum-effort](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1753-path-with-minimum-effort) |
 | [1861-rotating-the-box](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1861-rotating-the-box) |
@@ -379,6 +381,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0113-path-sum-ii](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0216-combination-sum-iii) |
 | [0980-unique-paths-iii](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0980-unique-paths-iii) |
+| [1219-path-with-maximum-gold](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1219-path-with-maximum-gold) |
 ## Breadth-First Search
 |  |
 | ------- |
