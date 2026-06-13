@@ -186,6 +186,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [1381-design-a-stack-with-increment-operation](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1470-shuffle-the-array](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1470-shuffle-the-array) |
 | [1476-subrectangle-queries](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1476-subrectangle-queries) |
+| [1499-max-value-of-equation](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1499-max-value-of-equation) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1631-path-with-minimum-effort](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1631-path-with-minimum-effort) |
 | [1642-furthest-building-you-can-reach](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1642-furthest-building-you-can-reach) |
@@ -292,6 +293,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0703-kth-largest-element-in-a-stream](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1014-k-closest-points-to-origin) |
+| [1499-max-value-of-equation](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1499-max-value-of-equation) |
 | [1631-path-with-minimum-effort](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1631-path-with-minimum-effort) |
 | [1642-furthest-building-you-can-reach](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1642-furthest-building-you-can-reach) |
 | [1753-path-with-minimum-effort](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1753-path-with-minimum-effort) |
@@ -361,6 +363,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0658-find-k-closest-elements](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0940-fruit-into-baskets) |
+| [1499-max-value-of-equation](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1499-max-value-of-equation) |
 | [1695-maximum-erasure-value](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1695-maximum-erasure-value) |
 ## Prefix Sum
 |  |
@@ -436,10 +439,12 @@ This project is open source and available under the [MIT License](LICENSE).
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0239-sliding-window-maximum) |
 | [0933-number-of-recent-calls](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0933-number-of-recent-calls) |
+| [1499-max-value-of-equation](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1499-max-value-of-equation) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0239-sliding-window-maximum) |
+| [1499-max-value-of-equation](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1499-max-value-of-equation) |
 ## Bit Manipulation
 |  |
 | ------- |
