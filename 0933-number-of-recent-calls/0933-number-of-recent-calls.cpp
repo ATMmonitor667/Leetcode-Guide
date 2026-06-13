@@ -1,21 +1,22 @@
 class RecentCounter {
+
 private:
-    vector<int> hold;
-
+    queue<int>pings;
 public:
-    RecentCounter() {}
+    
+    RecentCounter() {
+        
+    }
+    
+    int ping(int t) 
+    {
 
-    int ping(int t) {
-        hold.push_back(t);
-
-        int count = 0;
-        for (int i : hold) {
-            if (i >= t - 3000 && i <= t) {
-                count++;
-            }
-        }
-
-        return count;
+        pings.push(t);
+        while(!pings.empty() && pings.front() < t - 3000)
+        {
+            pings.pop();
+        } 
+        return pings.size();
     }
 };
 /**
