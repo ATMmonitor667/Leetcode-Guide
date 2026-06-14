@@ -1,34 +1,32 @@
 class Solution(object):
     def exist(self, board, word):
-        seen = set()
+        m = len(board)
+        n = len(board[0])
 
-        def dfs(idx, r, c):
-            if idx == len(word):
+        def dfs(i, r, c):
+            if i == len(word):
                 return True
-
-            if (
-                r < 0 or r >= len(board) or
-                c < 0 or c >= len(board[0]) or
-                (r, c) in seen or
-                board[r][c] != word[idx]
-            ):
+            if not (0 <= r < m) or not (0 <= c < n):
+                return False
+            if board[r][c] == '' or board[r][c] != word[i]:
                 return False
 
-            seen.add((r, c))
+            temp = board[r][c]
+            board[r][c] = '' 
 
             res = (
-                dfs(idx + 1, r + 1, c) or
-                dfs(idx + 1, r - 1, c) or
-                dfs(idx + 1, r, c + 1) or
-                dfs(idx + 1, r, c - 1)
+                dfs(i + 1, r + 1, c) or
+                dfs(i + 1, r - 1, c) or
+                dfs(i + 1, r, c + 1) or
+                dfs(i + 1, r, c - 1)
             )
 
-            seen.remove((r, c))
+            board[r][c] = temp  # restore original character
             return res
 
-        for i in range(len(board)):
-            for j in range(len(board[0])):
-                if dfs(0, i, j):
+        for r in range(m):
+            for c in range(n):
+                if dfs(0, r, c):
                     return True
 
         return False
