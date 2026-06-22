@@ -597,6 +597,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0897-increasing-order-search-tree](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0897-increasing-order-search-tree) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1381-design-a-stack-with-increment-operation) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Linked List
 |  |
 | ------- |
@@ -616,6 +617,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0445-add-two-numbers-ii](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0445-add-two-numbers-ii) |
 | [0705-design-hashset](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0706-design-hashmap) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -655,6 +657,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0658-find-k-closest-elements](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0658-find-k-closest-elements) |
 | [0922-sort-array-by-parity-ii](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0922-sort-array-by-parity-ii) |
 | [1861-rotating-the-box](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1861-rotating-the-box) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 ## Enumeration
 |  |
