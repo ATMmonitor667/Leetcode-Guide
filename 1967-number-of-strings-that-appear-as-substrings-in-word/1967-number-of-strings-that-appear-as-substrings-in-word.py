@@ -5,9 +5,5 @@ class Solution(object):
         :type word: str
         :rtype: int
         """
-        count = 0
-        for i in patterns:
-            if i in word:
-                count+=1
-        return count
+        return sum([1 for i in patterns if i in word])
         
