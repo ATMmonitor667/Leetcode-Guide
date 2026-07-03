@@ -239,6 +239,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1656-design-an-ordered-stream](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1656-design-an-ordered-stream) |
 | [1695-maximum-erasure-value](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1695-maximum-erasure-value) |
+| [2034-stock-price-fluctuation](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2034-stock-price-fluctuation) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -303,6 +304,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [1631-path-with-minimum-effort](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1631-path-with-minimum-effort) |
 | [1642-furthest-building-you-can-reach](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1642-furthest-building-you-can-reach) |
 | [1753-path-with-minimum-effort](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1753-path-with-minimum-effort) |
+| [2034-stock-price-fluctuation](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2034-stock-price-fluctuation) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Matrix
@@ -686,6 +688,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [1476-subrectangle-queries](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1476-subrectangle-queries) |
 | [1603-design-parking-system](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1603-design-parking-system) |
 | [1656-design-an-ordered-stream](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1656-design-an-ordered-stream) |
+| [2034-stock-price-fluctuation](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2034-stock-price-fluctuation) |
 ## Data Stream
 |  |
 | ------- |
@@ -694,6 +697,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0933-number-of-recent-calls](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0933-number-of-recent-calls) |
 | [1352-product-of-the-last-k-numbers](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1352-product-of-the-last-k-numbers) |
 | [1656-design-an-ordered-stream](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1656-design-an-ordered-stream) |
+| [2034-stock-price-fluctuation](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2034-stock-price-fluctuation) |
 ## Hash Function
 |  |
 | ------- |
@@ -744,4 +748,8 @@ This project is open source and available under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0173-binary-search-tree-iterator) |
+## Ordered Set
+|  |
+| ------- |
+| [2034-stock-price-fluctuation](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2034-stock-price-fluctuation) |
 <!---LeetCode Topics End-->
