@@ -1,24 +1,53 @@
 class UndergroundSystem(object):
+
     def __init__(self):
-        self.checkins = {}  
-        self.stats = defaultdict(lambda: [0, 0]) 
+        self.place = {}
+        self.customer = {}
 
     def checkIn(self, id, stationName, t):
-        self.checkins[id] = (stationName, t)
+        """
+        :type id: int
+        :type stationName: str
+        :type t: int
+        :rtype: None
+        """
+        if id in self.customer:
+            print("already been here man")
+            return
+
+        self.customer[id] = (stationName, t)
 
     def checkOut(self, id, stationName, t):
-        start, t0 = self.checkins[id]
-        key = (start, stationName)
+        """
+        :type id: int
+        :type stationName: str
+        :type t: int
+        :rtype: None
+        """
+        if id not in self.customer:
+            return
 
-        self.stats[key][0] += (t - t0)
-        self.stats[key][1] += 1
+        prevLocation, prevt = self.customer[id]
+        totalTime = t - prevt
 
-        del self.checkins[id]
+        if (prevLocation, stationName) in self.place:
+            currTotal, currCount = self.place[(prevLocation, stationName)]
+            currTotal += totalTime
+            currCount += 1
+            self.place[(prevLocation, stationName)] = (currTotal, currCount)
+        else:
+            self.place[(prevLocation, stationName)] = (totalTime, 1)
+
+        del self.customer[id]
 
     def getAverageTime(self, startStation, endStation):
-        total, count = self.stats[(startStation, endStation)]
-        return float(total) / count
-       
+        """
+        :type startStation: str
+        :type endStation: str
+        :rtype: float
+        """
+        totalTime, totalCount = self.place[(startStation, endStation)]
+        return float(totalTime) / totalCount
 
 
 # Your UndergroundSystem object will be instantiated and called as such:
