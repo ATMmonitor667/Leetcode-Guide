@@ -216,6 +216,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0128-longest-consecutive-sequence](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0217-contains-duplicate) |
@@ -610,6 +611,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0206-reverse-linked-list) |
@@ -668,6 +670,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0173-binary-search-tree-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0295-find-median-from-data-stream) |
@@ -720,6 +723,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Union-Find
 |  |
