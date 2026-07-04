@@ -1,27 +1,25 @@
 class Solution(object):
-    def minPathSum(self, grid):
-        """
-        :type grid: List[List[int]]
-        :rtype: int
-        """
-        m = len(grid) - 1
-        n = len(grid[0]) - 1
-        memo = {}
 
-        def dfs(r, c):
-            if r > m or c > n:
-                return float('inf')
+    def minPathSum(self, grid):
+            if not grid or not grid[0]:
+                return 0
+                
+            m = len(grid)
+            n = len(grid[0])
             
-            if r == m and c == n:
-                return grid[m][n]
+            dp = [[0 for _ in range(n)] for _ in range(m)]
             
-            if (r, c) in memo:
-                return memo[(r, c)]
+            dp[0][0] = grid[0][0]
             
-            best = grid[r][c] + min(dfs(r+1, c), dfs(r, c+1))
-            
-            memo[(r, c)] = best
-            return best
-            
-        return dfs(0, 0)
+            for j in range(1, n):
+                dp[0][j] = dp[0][j-1] + grid[0][j]
+                
+            for i in range(1, m):
+                dp[i][0] = dp[i-1][0] + grid[i][0]
+                
+            for i in range(1, m):
+                for j in range(1, n):
+                    dp[i][j] = grid[i][j] + min(dp[i-1][j], dp[i][j-1])
+                    
+            return dp[m-1][n-1]
 
