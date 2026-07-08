@@ -241,6 +241,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0974-subarray-sums-divisible-by-k](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1512-number-of-good-pairs](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1656-design-an-ordered-stream](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1656-design-an-ordered-stream) |
@@ -432,6 +433,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1254-deepest-leaves-sum) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1631-path-with-minimum-effort](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1631-path-with-minimum-effort) |
 | [1753-path-with-minimum-effort](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1753-path-with-minimum-effort) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -518,6 +520,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1254-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1631-path-with-minimum-effort](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1631-path-with-minimum-effort) |
 | [1753-path-with-minimum-effort](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1753-path-with-minimum-effort) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -559,6 +562,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1254-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
