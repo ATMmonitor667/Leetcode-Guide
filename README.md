@@ -193,6 +193,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [1512-number-of-good-pairs](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1512-number-of-good-pairs) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1631-path-with-minimum-effort](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1631-path-with-minimum-effort) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1642-furthest-building-you-can-reach](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1642-furthest-building-you-can-reach) |
 | [1656-design-an-ordered-stream](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1656-design-an-ordered-stream) |
 | [1695-maximum-erasure-value](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1695-maximum-erasure-value) |
@@ -241,6 +242,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1512-number-of-good-pairs) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1656-design-an-ordered-stream](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1656-design-an-ordered-stream) |
 | [1695-maximum-erasure-value](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1695-maximum-erasure-value) |
 | [2034-stock-price-fluctuation](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2034-stock-price-fluctuation) |
@@ -287,6 +289,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
