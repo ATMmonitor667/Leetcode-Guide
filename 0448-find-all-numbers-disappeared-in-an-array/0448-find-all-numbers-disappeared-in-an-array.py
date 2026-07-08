@@ -13,7 +13,8 @@ class Solution(object):
             if invar not in lookup:
                 ans.append(invar)
             invar +=1
-        if invar == length and invar not in nums:
+        
+        if invar == length and invar not in lookup:
             ans.append(length)
         return ans
        
