@@ -4,14 +4,19 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
-       
+
         length = len(nums)
         lookup = set(nums)
         ans = []
-        while length:
-            if length not in lookup:
-                ans.append(length)
-            length -=1
-        return ans 
+        invar = 1
+        while invar < length:
+            if invar not in lookup:
+                ans.append(invar)
+            invar +=1
+        if invar == length and invar not in nums:
+            ans.append(length)
+        return ans
+       
+        
 
         
