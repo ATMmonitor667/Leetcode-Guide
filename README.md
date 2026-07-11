@@ -206,6 +206,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2706-buy-two-chocolates](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2706-buy-two-chocolates) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/3764-maximum-sum-with-at-most-k-elements) |
@@ -251,6 +252,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3928-split-and-merge-array-transformation](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/3928-split-and-merge-array-transformation) |
 ## Greedy
 |  |
@@ -261,6 +263,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1642-furthest-building-you-can-reach](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1642-furthest-building-you-can-reach) |
 | [2706-buy-two-chocolates](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2706-buy-two-chocolates) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [4005-maximum-total-subarray-value-i](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/4005-maximum-total-subarray-value-i) |
@@ -354,6 +357,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [1512-number-of-good-pairs](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1512-number-of-good-pairs) |
 | [1603-design-parking-system](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1603-design-parking-system) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Simulation
 |  |
 | ------- |
