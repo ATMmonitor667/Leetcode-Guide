@@ -525,6 +525,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1254-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1631-path-with-minimum-effort](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1631-path-with-minimum-effort) |
 | [1753-path-with-minimum-effort](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1753-path-with-minimum-effort) |
@@ -567,6 +568,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1254-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -605,6 +607,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1254-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1325-delete-leaves-with-a-given-value) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Union Find
