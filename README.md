@@ -181,6 +181,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0980-unique-paths-iii](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0980-unique-paths-iii) |
 | [1014-k-closest-points-to-origin](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1014-k-closest-points-to-origin) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1046-last-stone-weight](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1046-last-stone-weight) |
 | [1200-minimum-absolute-difference](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1200-minimum-absolute-difference) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1219-path-with-maximum-gold](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1219-path-with-maximum-gold) |
@@ -316,6 +317,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0912-sort-an-array](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1014-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1046-last-stone-weight) |
 | [1499-max-value-of-equation](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1499-max-value-of-equation) |
 | [1631-path-with-minimum-effort](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1631-path-with-minimum-effort) |
 | [1642-furthest-building-you-can-reach](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1642-furthest-building-you-can-reach) |
