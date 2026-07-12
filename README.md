@@ -207,6 +207,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2706-buy-two-chocolates](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2706-buy-two-chocolates) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2966-divide-array-into-arrays-with-max-difference) |
@@ -324,6 +325,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [1753-path-with-minimum-effort](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1753-path-with-minimum-effort) |
 | [2034-stock-price-fluctuation](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2034-stock-price-fluctuation) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Matrix
 |  |
@@ -372,6 +374,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [1603-design-parking-system](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1603-design-parking-system) |
 | [1929-concatenation-of-array](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1929-concatenation-of-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Binary Search
 |  |
 | ------- |
