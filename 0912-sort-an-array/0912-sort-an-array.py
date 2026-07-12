@@ -5,4 +5,4 @@ class Solution(object):
         :rtype: List[int]
         """
         
-        return heapq.nlargest(len(nums), nums)[::-1]
+        return [-1* j for j in heapq.nlargest(len(nums), [-1*i for i in nums])]
