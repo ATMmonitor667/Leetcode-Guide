@@ -5,9 +5,4 @@ class Solution(object):
         :rtype: List[int]
         """
         
-        heapq.heapify(nums)
-        ans = []
-        while nums:
-            value = heapq.heappop(nums)
-            ans.append(value)
-        return ans
+        return heapq.nlargest(len(nums), nums)[::-1]
