@@ -183,6 +183,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [1014-k-closest-points-to-origin](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1014-k-closest-points-to-origin) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1046-last-stone-weight](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1046-last-stone-weight) |
+| [1122-relative-sort-array](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1200-minimum-absolute-difference) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1219-path-with-maximum-gold](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1219-path-with-maximum-gold) |
@@ -246,6 +247,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0940-fruit-into-baskets](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0940-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1122-relative-sort-array](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -296,6 +298,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0973-k-closest-points-to-origin](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1014-k-closest-points-to-origin](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1014-k-closest-points-to-origin) |
+| [1122-relative-sort-array](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1288-remove-covered-intervals) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -785,6 +788,7 @@ This project is open source and available under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0912-sort-an-array) |
+| [1122-relative-sort-array](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Game Theory
 |  |
