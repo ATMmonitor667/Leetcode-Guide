@@ -214,6 +214,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [2558-take-gifts-from-the-richest-pile](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2706-buy-two-chocolates](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2706-buy-two-chocolates) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [2965-find-missing-and-repeated-values](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2965-find-missing-and-repeated-values) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/3764-maximum-sum-with-at-most-k-elements) |
@@ -262,6 +263,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [2965-find-missing-and-repeated-values](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2965-find-missing-and-repeated-values) |
 | [3928-split-and-merge-array-transformation](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/3928-split-and-merge-array-transformation) |
 ## Greedy
 |  |
@@ -353,6 +355,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [1631-path-with-minimum-effort](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1631-path-with-minimum-effort) |
 | [1753-path-with-minimum-effort](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1753-path-with-minimum-effort) |
 | [1861-rotating-the-box](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1861-rotating-the-box) |
+| [2965-find-missing-and-repeated-values](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2965-find-missing-and-repeated-values) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Divide and Conquer
 |  |
@@ -486,6 +489,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2443-sum-of-number-and-its-reverse) |
+| [2965-find-missing-and-repeated-values](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2965-find-missing-and-repeated-values) |
 ## Queue
 |  |
 | ------- |
