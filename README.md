@@ -193,6 +193,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [1352-product-of-the-last-k-numbers](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1352-product-of-the-last-k-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1381-design-a-stack-with-increment-operation) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1470-shuffle-the-array) |
 | [1476-subrectangle-queries](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1476-subrectangle-queries) |
 | [1499-max-value-of-equation](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1499-max-value-of-equation) |
@@ -252,6 +253,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [1122-relative-sort-array](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1512-number-of-good-pairs](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -375,6 +377,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | ------- |
 | [0169-majority-element](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0347-top-k-frequent-elements) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1512-number-of-good-pairs) |
 | [1603-design-parking-system](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1603-design-parking-system) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
