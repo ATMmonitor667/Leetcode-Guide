@@ -188,6 +188,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1219-path-with-maximum-gold](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1219-path-with-maximum-gold) |
 | [1288-remove-covered-intervals](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1288-remove-covered-intervals) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1331-rank-transform-of-an-array](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1331-rank-transform-of-an-array) |
 | [1352-product-of-the-last-k-numbers](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1352-product-of-the-last-k-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -347,6 +348,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0895-shortest-path-to-get-all-keys](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0980-unique-paths-iii](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0980-unique-paths-iii) |
 | [1219-path-with-maximum-gold](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1219-path-with-maximum-gold) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1476-subrectangle-queries](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1476-subrectangle-queries) |
 | [1631-path-with-minimum-effort](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1631-path-with-minimum-effort) |
 | [1753-path-with-minimum-effort](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1753-path-with-minimum-effort) |
@@ -454,6 +456,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1254-deepest-leaves-sum) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1631-path-with-minimum-effort](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1631-path-with-minimum-effort) |
 | [1753-path-with-minimum-effort](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1753-path-with-minimum-effort) |
