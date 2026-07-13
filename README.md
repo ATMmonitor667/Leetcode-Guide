@@ -131,6 +131,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0011-container-with-most-water](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0016-3sum-closest) |
+| [0036-valid-sudoku](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0041-first-missing-positive) |
@@ -226,6 +227,7 @@ This project is open source and available under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0128-longest-consecutive-sequence) |
@@ -345,6 +347,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0200-number-of-islands) |
