@@ -5,5 +5,5 @@ class Solution(object):
         :type heights: List[int]
         :rtype: List[str]
         """
-        return [person for _, person in sorted(zip(heights, names))][::-1]
+        return [person for _, person in sorted(zip(heights, names), reverse=True)]
         
