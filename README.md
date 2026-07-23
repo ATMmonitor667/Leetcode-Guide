@@ -166,6 +166,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0540-single-element-in-a-sorted-array](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0658-find-k-closest-elements) |
+| [0682-baseball-game](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0695-max-area-of-island) |
 | [0705-design-hashset](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0706-design-hashmap) |
@@ -392,6 +393,7 @@ This project is open source and available under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0054-spiral-matrix) |
+| [0682-baseball-game](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0735-asteroid-collision) |
 | [1603-design-parking-system](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1603-design-parking-system) |
 | [1929-concatenation-of-array](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1929-concatenation-of-array) |
@@ -659,6 +661,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0173-binary-search-tree-iterator](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0445-add-two-numbers-ii) |
+| [0682-baseball-game](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0735-asteroid-collision) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0897-increasing-order-search-tree](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0897-increasing-order-search-tree) |
