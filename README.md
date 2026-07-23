@@ -236,6 +236,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0146-lru-cache](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0347-top-k-frequent-elements) |
@@ -484,6 +485,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0066-plus-one](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0380-insert-delete-getrandom-o1) |
 | [0445-add-two-numbers-ii](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0445-add-two-numbers-ii) |
@@ -717,6 +719,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0142-linked-list-cycle-ii](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0349-intersection-of-two-arrays) |
