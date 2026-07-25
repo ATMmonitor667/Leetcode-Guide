@@ -6,11 +6,8 @@ class Solution(object):
         """
         arr = []
         while n:
-            arr.append(-1*(n%10))
+            arr.append((n%10))
             n = n//10
-        print(arr)
-        heapq.heapify(arr)
-        val1 = heapq.heappop(arr)
-        val2 = heapq.heappop(arr)
-        return val1 * val2
-        
+       
+        arr.sort()
+        return arr[-1]*arr[-2]
