@@ -323,6 +323,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2706-buy-two-chocolates](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2706-buy-two-chocolates) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2966-divide-array-into-arrays-with-max-difference) |
+| [3536-maximum-product-of-two-digits](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/3536-maximum-product-of-two-digits) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -502,6 +503,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2965-find-missing-and-repeated-values](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2965-find-missing-and-repeated-values) |
+| [3536-maximum-product-of-two-digits](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/3536-maximum-product-of-two-digits) |
 ## Queue
 |  |
 | ------- |
