@@ -168,6 +168,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0658-find-k-closest-elements](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0695-max-area-of-island) |
+| [0704-binary-search](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0706-design-hashmap) |
 | [0713-subarray-product-less-than-k](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0713-subarray-product-less-than-k) |
@@ -413,6 +414,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0475-heaters](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0475-heaters) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0658-find-k-closest-elements) |
+| [0704-binary-search](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1631-path-with-minimum-effort](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1631-path-with-minimum-effort) |
