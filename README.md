@@ -458,6 +458,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0100-same-tree](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0200-number-of-islands](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0200-number-of-islands) |
@@ -536,6 +537,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -580,6 +582,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0100-same-tree](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -622,6 +625,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0100-same-tree](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0116-populating-next-right-pointers-in-each-node) |
