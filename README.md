@@ -161,6 +161,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0475-heaters](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0485-max-consecutive-ones) |
+| [0506-relative-ranks](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0506-relative-ranks) |
 | [0523-continuous-subarray-sum](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0540-single-element-in-a-sorted-array) |
@@ -303,6 +304,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0347-top-k-frequent-elements](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0349-intersection-of-two-arrays) |
 | [0475-heaters](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0475-heaters) |
+| [0506-relative-ranks](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0658-find-k-closest-elements) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0912-sort-an-array](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0912-sort-an-array) |
@@ -336,6 +338,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0295-find-median-from-data-stream](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0355-design-twitter) |
+| [0506-relative-ranks](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0912-sort-an-array](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0912-sort-an-array) |
