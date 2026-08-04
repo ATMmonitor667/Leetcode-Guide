@@ -223,6 +223,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2965-find-missing-and-repeated-values](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2965-find-missing-and-repeated-values) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2966-divide-array-into-arrays-with-max-difference) |
+| [3731-find-missing-elements](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/3731-find-missing-elements) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3928-split-and-merge-array-transformation](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/3928-split-and-merge-array-transformation) |
@@ -274,6 +275,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2965-find-missing-and-repeated-values](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2965-find-missing-and-repeated-values) |
+| [3731-find-missing-elements](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/3731-find-missing-elements) |
 | [3928-split-and-merge-array-transformation](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/3928-split-and-merge-array-transformation) |
 ## Greedy
 |  |
@@ -329,6 +331,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [2706-buy-two-chocolates](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2706-buy-two-chocolates) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3536-maximum-product-of-two-digits](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/3731-find-missing-elements) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Heap (Priority Queue)
 |  |
