@@ -209,6 +209,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [1642-furthest-building-you-can-reach](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1642-furthest-building-you-can-reach) |
 | [1656-design-an-ordered-stream](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1656-design-an-ordered-stream) |
 | [1695-maximum-erasure-value](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1695-maximum-erasure-value) |
+| [1706-where-will-the-ball-fall](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1706-where-will-the-ball-fall) |
 | [1753-path-with-minimum-effort](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1753-path-with-minimum-effort) |
 | [1833-find-the-highest-altitude](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1833-find-the-highest-altitude) |
 | [1861-rotating-the-box](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1861-rotating-the-box) |
@@ -373,6 +374,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1476-subrectangle-queries](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1476-subrectangle-queries) |
 | [1631-path-with-minimum-effort](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1631-path-with-minimum-effort) |
+| [1706-where-will-the-ball-fall](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1706-where-will-the-ball-fall) |
 | [1753-path-with-minimum-effort](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1753-path-with-minimum-effort) |
 | [1861-rotating-the-box](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1861-rotating-the-box) |
 | [2965-find-missing-and-repeated-values](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2965-find-missing-and-repeated-values) |
@@ -407,6 +409,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0682-baseball-game](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0735-asteroid-collision) |
 | [1603-design-parking-system](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1603-design-parking-system) |
+| [1706-where-will-the-ball-fall](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1706-where-will-the-ball-fall) |
 | [1929-concatenation-of-array](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1929-concatenation-of-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2558-take-gifts-from-the-richest-pile) |
