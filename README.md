@@ -152,6 +152,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0217-contains-duplicate](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0347-top-k-frequent-elements) |
@@ -419,6 +420,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0004-median-of-two-sorted-arrays](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0349-intersection-of-two-arrays) |
 | [0475-heaters](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0475-heaters) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0540-single-element-in-a-sorted-array) |
@@ -539,6 +541,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0190-reverse-bits](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0287-find-the-duplicate-number) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0980-unique-paths-iii](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0980-unique-paths-iii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -745,6 +748,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0160-intersection-of-two-linked-lists](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0349-intersection-of-two-arrays) |
 | [0475-heaters](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0475-heaters) |
@@ -852,4 +856,12 @@ This project is open source and available under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0319-bulb-switcher) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
