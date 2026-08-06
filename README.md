@@ -521,6 +521,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2965-find-missing-and-repeated-values](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2965-find-missing-and-repeated-values) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/3536-maximum-product-of-two-digits) |
 ## Queue
 |  |
@@ -761,6 +762,7 @@ This project is open source and available under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [2443-sum-of-number-and-its-reverse](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/2443-sum-of-number-and-its-reverse) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Design
 |  |
 | ------- |
