@@ -505,6 +505,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0150-evaluate-reverse-polish-notation](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0319-bulb-switcher) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0380-insert-delete-getrandom-o1) |
 | [0445-add-two-numbers-ii](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0445-add-two-numbers-ii) |
 | [0523-continuous-subarray-sum](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0523-continuous-subarray-sum) |
@@ -847,4 +848,8 @@ This project is open source and available under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0912-sort-an-array) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
