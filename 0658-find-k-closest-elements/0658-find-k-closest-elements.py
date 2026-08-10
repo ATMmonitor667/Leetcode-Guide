@@ -5,13 +5,6 @@ class Solution(object):
         for i in arr:
             heapq.heappush(heap, [abs(i - x), i])
 
-        ans = []
+        ans = [value for distance, value in heapq.nsmallest(k, heap)]
 
-        while k:
-            distance, value = heapq.heappop(heap)
-            ans.append(value)
-            k -= 1
-
-        ans.sort()
-        return ans
-       
+        return sorted(ans)
