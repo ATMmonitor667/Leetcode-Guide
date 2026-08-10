@@ -2,9 +2,9 @@ class Solution(object):
     def findClosestElements(self, arr, k, x):
         heap = []
 
-        for i in arr:
-            heapq.heappush(heap, [abs(i - x), i])
+        ans = sorted([[abs(i - x), i] for i in arr])
+        ans = sorted([i for j,i in ans][0:k])
+        return ans
 
-        return sorted([value for distance, value in heapq.nsmallest(k, heap)])
 
        
