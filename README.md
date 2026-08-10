@@ -131,6 +131,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | [0011-container-with-most-water](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0016-3sum-closest) |
+| [0033-search-in-rotated-sorted-array](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0040-combination-sum-ii) |
@@ -418,6 +419,7 @@ This project is open source and available under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0287-find-the-duplicate-number) |
