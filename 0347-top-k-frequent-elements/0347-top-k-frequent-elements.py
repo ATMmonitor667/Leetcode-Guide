@@ -5,7 +5,19 @@ class Solution(object):
         :type k: int
         :rtype: List[int]
         """
-        return [x for x, _ in Counter(nums).most_common(k)]
+        count = Counter(nums)
+        arr = []
+        for key, v in count.items():
+            arr.append((-1*v,key))
+        heapq.heapify(arr)
+        ans = []
+        while k:
+            value, val = heapq.heappop(arr)
+            ans.append(val)
+            print("hi")
+            k-=1
+        return ans 
+
        
 
         
