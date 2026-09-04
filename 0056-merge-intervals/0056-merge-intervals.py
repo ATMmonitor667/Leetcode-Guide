@@ -4,11 +4,15 @@ class Solution(object):
         :type intervals: List[List[int]]
         :rtype: List[List[int]]
         """
-        intervals.sort(key=lambda x: x[0])
-        res = []
-        for i, [s,e] in enumerate(intervals):
-            if not res or res[-1][1] < intervals[i][0]:
-                res.append([s,e])
+        intervals.sort()
+        merger = [intervals[0]]
+        for i in range(1, len(intervals)):
+            start = intervals[i][0]
+            end = intervals[i][1]
+            print(start, end)
+            if merger[-1][1] >= start:
+                merger[-1][1] = max(merger[-1][1], end)
             else:
-                res[-1][1] = max(res[-1][1], intervals[i][1])
-        return res
+                merger.append([start, end])
+        return merger
+
