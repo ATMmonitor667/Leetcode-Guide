@@ -1,13 +1,9 @@
 class Solution(object):
     def twoSum(self, nums, target):
-        myMap = {}
-        for i in range(len(nums)):
-            complement = target - nums[i]
-            if complement in myMap:
-                return [myMap[complement], i]
-            else:
-                myMap[nums[i]] = i
-        return -1
-
-
-        
+        seen = {}
+        for index, number in enumerate(nums):
+            complement = target - number
+            if complement in seen:
+                return [index, seen[complement]]
+            seen[number] = index
+        return [-1,-1]
