@@ -871,4 +871,8 @@ This project is open source and available under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0287-find-the-duplicate-number) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/ATMmonitor667/Leetcode-Guide/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
